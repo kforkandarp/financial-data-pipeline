@@ -45,10 +45,10 @@ if you only want to re-run one part.
 ## Viewing the dashboard
 
 Open `dashboard/index.html` directly in a browser, or serve the `dashboard/` folder
-with any static file server. The dashboard folder is fully self-contained — it does
-not depend on anything outside itself once `dashboard/data/*.csv` is populated by the
-pipeline — so it can be deployed to Netlify by dragging and dropping the `dashboard/`
-folder, or by connecting the repo and setting the publish directory to `dashboard/`.
+with any static file server. The dashboard folder is fully self-contained — it does not depend on anything 
+outside itself once dashboard/data/*.csv is populated by the pipeline. It is deployed on Netlify with the publish directory set to dashboard/.
+
+Live dashboard: <https://financial-data-pipeline.netlify.app/>
 
 ## Repository structure
 
@@ -83,19 +83,19 @@ attribute on each header `<th>` (an ISO-format date) rather than the visible tex
 `.get_text()`, which correctly handles both plain-text labels and labels wrapped in
 an expandable `<button>`.
 
-**Structural guardrails:** before parsing each section, the scraper verifies the
+**Structural guardrails:** Before parsing each section, the scraper verifies the
 section exists and that period headers were found. If either check fails, it raises
 a clear `DOMStructureChangedError` naming exactly what was missing, rather than
 silently writing an empty or corrupted file. One section failing does not stop the
 others from being scraped.
 
 **Two items were investigated and deliberately excluded from scope:**
-- **Expandable sub-items** (e.g. "Sales Growth %" nested under "Sales"): initially
+- **Expandable sub-items** (e.g. "Sales Growth %" nested under "Sales"): Initially
   planned to include these for Quarterly Results, but direct inspection of the raw
   fetched HTML confirmed they are not present in the static page — they're injected
   by JavaScript after page load rather than being pre-rendered. Capturing them would 
   require reverse-engineering a dynamic request; this was intentionally left out of scope for this pipeline.
-- **Peer comparison table** (`#peers`): also found to load via a separate dynamic
+- **Peer comparison table** (`#peers`): Also found to load via a separate dynamic
   request (indicated by a `data-page-results` marker on its wrapping element) rather
   than being present in the static HTML. Descoped for the same reason as above; it
   was already a partial fit for this pipeline's reproducibility goals anyway, since
