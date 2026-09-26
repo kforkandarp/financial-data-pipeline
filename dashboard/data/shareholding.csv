@@ -1,0 +1,73 @@
+line_item,period,period_type,value,unit
+Promoters,2023-09-30,quarterly,50.27,percent
+Promoters,2023-12-31,quarterly,50.3,percent
+Promoters,2024-03-31,quarterly,50.31,percent
+Promoters,2024-06-30,quarterly,50.33,percent
+Promoters,2024-09-30,quarterly,50.24,percent
+Promoters,2024-12-31,quarterly,50.13,percent
+Promoters,2025-03-31,quarterly,50.1,percent
+Promoters,2025-06-30,quarterly,50.07,percent
+Promoters,2025-09-30,quarterly,50.01,percent
+Promoters,2025-12-31,quarterly,50.0,percent
+Promoters,2026-03-31,quarterly,50.0,percent
+Promoters,2026-06-30,quarterly,50.48,percent
+FIIs,2023-09-30,quarterly,22.6,percent
+FIIs,2023-12-31,quarterly,22.13,percent
+FIIs,2024-03-31,quarterly,22.06,percent
+FIIs,2024-06-30,quarterly,21.75,percent
+FIIs,2024-09-30,quarterly,21.3,percent
+FIIs,2024-12-31,quarterly,19.16,percent
+FIIs,2025-03-31,quarterly,19.07,percent
+FIIs,2025-06-30,quarterly,19.21,percent
+FIIs,2025-09-30,quarterly,18.65,percent
+FIIs,2025-12-31,quarterly,19.09,percent
+FIIs,2026-03-31,quarterly,18.67,percent
+FIIs,2026-06-30,quarterly,17.19,percent
+DIIs,2023-09-30,quarterly,15.99,percent
+DIIs,2023-12-31,quarterly,16.59,percent
+DIIs,2024-03-31,quarterly,16.98,percent
+DIIs,2024-06-30,quarterly,17.3,percent
+DIIs,2024-09-30,quarterly,17.61,percent
+DIIs,2024-12-31,quarterly,19.02,percent
+DIIs,2025-03-31,quarterly,19.36,percent
+DIIs,2025-06-30,quarterly,19.72,percent
+DIIs,2025-09-30,quarterly,20.25,percent
+DIIs,2025-12-31,quarterly,20.1,percent
+DIIs,2026-03-31,quarterly,20.46,percent
+DIIs,2026-06-30,quarterly,21.1,percent
+Government,2023-09-30,quarterly,0.17,percent
+Government,2023-12-31,quarterly,0.18,percent
+Government,2024-03-31,quarterly,0.19,percent
+Government,2024-06-30,quarterly,0.19,percent
+Government,2024-09-30,quarterly,0.19,percent
+Government,2024-12-31,quarterly,0.18,percent
+Government,2025-03-31,quarterly,0.17,percent
+Government,2025-06-30,quarterly,0.17,percent
+Government,2025-09-30,quarterly,0.17,percent
+Government,2025-12-31,quarterly,0.17,percent
+Government,2026-03-31,quarterly,0.17,percent
+Government,2026-06-30,quarterly,0.17,percent
+Public,2023-09-30,quarterly,10.98,percent
+Public,2023-12-31,quarterly,10.8,percent
+Public,2024-03-31,quarterly,10.46,percent
+Public,2024-06-30,quarterly,10.43,percent
+Public,2024-09-30,quarterly,10.67,percent
+Public,2024-12-31,quarterly,11.52,percent
+Public,2025-03-31,quarterly,11.29,percent
+Public,2025-06-30,quarterly,10.84,percent
+Public,2025-09-30,quarterly,10.92,percent
+Public,2025-12-31,quarterly,10.64,percent
+Public,2026-03-31,quarterly,10.7,percent
+Public,2026-06-30,quarterly,11.05,percent
+No. of Shareholders,2023-09-30,quarterly,3698648.0,count
+No. of Shareholders,2023-12-31,quarterly,3613814.0,count
+No. of Shareholders,2024-03-31,quarterly,3463276.0,count
+No. of Shareholders,2024-06-30,quarterly,3493125.0,count
+No. of Shareholders,2024-09-30,quarterly,3834968.0,count
+No. of Shareholders,2024-12-31,quarterly,4714959.0,count
+No. of Shareholders,2025-03-31,quarterly,4765728.0,count
+No. of Shareholders,2025-06-30,quarterly,4435756.0,count
+No. of Shareholders,2025-09-30,quarterly,4393764.0,count
+No. of Shareholders,2025-12-31,quarterly,4206159.0,count
+No. of Shareholders,2026-03-31,quarterly,4421289.0,count
+No. of Shareholders,2026-06-30,quarterly,4651863.0,count

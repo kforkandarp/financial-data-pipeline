@@ -1,0 +1,157 @@
+line_item,period,period_type,value,unit
+Sales,2015-03-31,annual,374372.0,INR_crore
+Sales,2016-03-31,annual,272583.0,INR_crore
+Sales,2017-03-31,annual,303954.0,INR_crore
+Sales,2018-03-31,annual,390823.0,INR_crore
+Sales,2019-03-31,annual,568337.0,INR_crore
+Sales,2020-03-31,annual,596679.0,INR_crore
+Sales,2021-03-31,annual,466307.0,INR_crore
+Sales,2022-03-31,annual,694673.0,INR_crore
+Sales,2023-03-31,annual,876396.0,INR_crore
+Sales,2024-03-31,annual,899041.0,INR_crore
+Sales,2025-03-31,annual,962820.0,INR_crore
+Sales,2026-03-31,annual,1055780.0,INR_crore
+Sales,,ttm,1123055.0,INR_crore
+Expenses,2015-03-31,annual,336923.0,INR_crore
+Expenses,2016-03-31,annual,230802.0,INR_crore
+Expenses,2017-03-31,annual,257647.0,INR_crore
+Expenses,2018-03-31,annual,326508.0,INR_crore
+Expenses,2019-03-31,annual,484087.0,INR_crore
+Expenses,2020-03-31,annual,507413.0,INR_crore
+Expenses,2021-03-31,annual,385517.0,INR_crore
+Expenses,2022-03-31,annual,586092.0,INR_crore
+Expenses,2023-03-31,annual,734078.0,INR_crore
+Expenses,2024-03-31,annual,736543.0,INR_crore
+Expenses,2025-03-31,annual,797222.0,INR_crore
+Expenses,2026-03-31,annual,876715.0,INR_crore
+Expenses,,ttm,939494.0,INR_crore
+Operating Profit,2015-03-31,annual,37449.0,INR_crore
+Operating Profit,2016-03-31,annual,41781.0,INR_crore
+Operating Profit,2017-03-31,annual,46307.0,INR_crore
+Operating Profit,2018-03-31,annual,64315.0,INR_crore
+Operating Profit,2019-03-31,annual,84250.0,INR_crore
+Operating Profit,2020-03-31,annual,89266.0,INR_crore
+Operating Profit,2021-03-31,annual,80790.0,INR_crore
+Operating Profit,2022-03-31,annual,108581.0,INR_crore
+Operating Profit,2023-03-31,annual,142318.0,INR_crore
+Operating Profit,2024-03-31,annual,162498.0,INR_crore
+Operating Profit,2025-03-31,annual,165598.0,INR_crore
+Operating Profit,2026-03-31,annual,179065.0,INR_crore
+Operating Profit,,ttm,183561.0,INR_crore
+OPM %,2015-03-31,annual,10.0,percent
+OPM %,2016-03-31,annual,15.0,percent
+OPM %,2017-03-31,annual,15.0,percent
+OPM %,2018-03-31,annual,16.0,percent
+OPM %,2019-03-31,annual,15.0,percent
+OPM %,2020-03-31,annual,15.0,percent
+OPM %,2021-03-31,annual,17.0,percent
+OPM %,2022-03-31,annual,16.0,percent
+OPM %,2023-03-31,annual,16.0,percent
+OPM %,2024-03-31,annual,18.0,percent
+OPM %,2025-03-31,annual,17.0,percent
+OPM %,2026-03-31,annual,17.0,percent
+OPM %,,ttm,16.0,percent
+Other Income,2015-03-31,annual,8528.0,INR_crore
+Other Income,2016-03-31,annual,12212.0,INR_crore
+Other Income,2017-03-31,annual,9222.0,INR_crore
+Other Income,2018-03-31,annual,9869.0,INR_crore
+Other Income,2019-03-31,annual,8406.0,INR_crore
+Other Income,2020-03-31,annual,8570.0,INR_crore
+Other Income,2021-03-31,annual,22432.0,INR_crore
+Other Income,2022-03-31,annual,19600.0,INR_crore
+Other Income,2023-03-31,annual,12020.0,INR_crore
+Other Income,2024-03-31,annual,15792.0,INR_crore
+Other Income,2025-03-31,annual,17824.0,INR_crore
+Other Income,2026-03-31,annual,28846.0,INR_crore
+Other Income,,ttm,20393.0,INR_crore
+Interest,2015-03-31,annual,3316.0,INR_crore
+Interest,2016-03-31,annual,3691.0,INR_crore
+Interest,2017-03-31,annual,3849.0,INR_crore
+Interest,2018-03-31,annual,8052.0,INR_crore
+Interest,2019-03-31,annual,16495.0,INR_crore
+Interest,2020-03-31,annual,22027.0,INR_crore
+Interest,2021-03-31,annual,21189.0,INR_crore
+Interest,2022-03-31,annual,14584.0,INR_crore
+Interest,2023-03-31,annual,19571.0,INR_crore
+Interest,2024-03-31,annual,23118.0,INR_crore
+Interest,2025-03-31,annual,24269.0,INR_crore
+Interest,2026-03-31,annual,27061.0,INR_crore
+Interest,,ttm,28362.0,INR_crore
+Depreciation,2015-03-31,annual,11547.0,INR_crore
+Depreciation,2016-03-31,annual,11565.0,INR_crore
+Depreciation,2017-03-31,annual,11646.0,INR_crore
+Depreciation,2018-03-31,annual,16706.0,INR_crore
+Depreciation,2019-03-31,annual,20934.0,INR_crore
+Depreciation,2020-03-31,annual,22203.0,INR_crore
+Depreciation,2021-03-31,annual,26572.0,INR_crore
+Depreciation,2022-03-31,annual,29782.0,INR_crore
+Depreciation,2023-03-31,annual,40303.0,INR_crore
+Depreciation,2024-03-31,annual,50832.0,INR_crore
+Depreciation,2025-03-31,annual,53136.0,INR_crore
+Depreciation,2026-03-31,annual,57688.0,INR_crore
+Depreciation,,ttm,58946.0,INR_crore
+Profit before tax,2015-03-31,annual,31114.0,INR_crore
+Profit before tax,2016-03-31,annual,38737.0,INR_crore
+Profit before tax,2017-03-31,annual,40034.0,INR_crore
+Profit before tax,2018-03-31,annual,49426.0,INR_crore
+Profit before tax,2019-03-31,annual,55227.0,INR_crore
+Profit before tax,2020-03-31,annual,53606.0,INR_crore
+Profit before tax,2021-03-31,annual,55461.0,INR_crore
+Profit before tax,2022-03-31,annual,83815.0,INR_crore
+Profit before tax,2023-03-31,annual,94464.0,INR_crore
+Profit before tax,2024-03-31,annual,104340.0,INR_crore
+Profit before tax,2025-03-31,annual,106017.0,INR_crore
+Profit before tax,2026-03-31,annual,123162.0,INR_crore
+Profit before tax,,ttm,116646.0,INR_crore
+Tax %,2015-03-31,annual,24.0,percent
+Tax %,2016-03-31,annual,23.0,percent
+Tax %,2017-03-31,annual,25.0,percent
+Tax %,2018-03-31,annual,27.0,percent
+Tax %,2019-03-31,annual,28.0,percent
+Tax %,2020-03-31,annual,26.0,percent
+Tax %,2021-03-31,annual,3.0,percent
+Tax %,2022-03-31,annual,19.0,percent
+Tax %,2023-03-31,annual,22.0,percent
+Tax %,2024-03-31,annual,25.0,percent
+Tax %,2025-03-31,annual,24.0,percent
+Tax %,2026-03-31,annual,22.0,percent
+Tax %,,ttm,,percent
+Net Profit,2015-03-31,annual,23640.0,INR_crore
+Net Profit,2016-03-31,annual,29861.0,INR_crore
+Net Profit,2017-03-31,annual,29833.0,INR_crore
+Net Profit,2018-03-31,annual,36080.0,INR_crore
+Net Profit,2019-03-31,annual,39837.0,INR_crore
+Net Profit,2020-03-31,annual,39880.0,INR_crore
+Net Profit,2021-03-31,annual,53739.0,INR_crore
+Net Profit,2022-03-31,annual,67845.0,INR_crore
+Net Profit,2023-03-31,annual,74088.0,INR_crore
+Net Profit,2024-03-31,annual,79020.0,INR_crore
+Net Profit,2025-03-31,annual,81309.0,INR_crore
+Net Profit,2026-03-31,annual,95754.0,INR_crore
+Net Profit,,ttm,88167.0,INR_crore
+EPS in Rs,2015-03-31,annual,17.07,INR_per_share
+EPS in Rs,2016-03-31,annual,21.51,INR_per_share
+EPS in Rs,2017-03-31,annual,21.55,INR_per_share
+EPS in Rs,2018-03-31,annual,26.69,INR_per_share
+EPS in Rs,2019-03-31,annual,29.28,INR_per_share
+EPS in Rs,2020-03-31,annual,29.1,INR_per_share
+EPS in Rs,2021-03-31,annual,38.75,INR_per_share
+EPS in Rs,2022-03-31,annual,44.87,INR_per_share
+EPS in Rs,2023-03-31,annual,49.29,INR_per_share
+EPS in Rs,2024-03-31,annual,51.45,INR_per_share
+EPS in Rs,2025-03-31,annual,51.47,INR_per_share
+EPS in Rs,2026-03-31,annual,59.69,INR_per_share
+EPS in Rs,,ttm,55.22,INR_per_share
+Dividend Payout %,2015-03-31,annual,12.0,percent
+Dividend Payout %,2016-03-31,annual,10.0,percent
+Dividend Payout %,2017-03-31,annual,11.0,percent
+Dividend Payout %,2018-03-31,annual,10.0,percent
+Dividend Payout %,2019-03-31,annual,10.0,percent
+Dividend Payout %,2020-03-31,annual,10.0,percent
+Dividend Payout %,2021-03-31,annual,9.0,percent
+Dividend Payout %,2022-03-31,annual,9.0,percent
+Dividend Payout %,2023-03-31,annual,9.0,percent
+Dividend Payout %,2024-03-31,annual,10.0,percent
+Dividend Payout %,2025-03-31,annual,11.0,percent
+Dividend Payout %,2026-03-31,annual,10.0,percent
+Dividend Payout %,,ttm,,percent

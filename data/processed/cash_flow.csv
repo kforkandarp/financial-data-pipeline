@@ -1,0 +1,73 @@
+line_item,period,period_type,value,unit
+Cash from Operating Activity,2015-03-31,annual,34374.0,INR_crore
+Cash from Operating Activity,2016-03-31,annual,38134.0,INR_crore
+Cash from Operating Activity,2017-03-31,annual,49550.0,INR_crore
+Cash from Operating Activity,2018-03-31,annual,71459.0,INR_crore
+Cash from Operating Activity,2019-03-31,annual,42346.0,INR_crore
+Cash from Operating Activity,2020-03-31,annual,94877.0,INR_crore
+Cash from Operating Activity,2021-03-31,annual,26958.0,INR_crore
+Cash from Operating Activity,2022-03-31,annual,110654.0,INR_crore
+Cash from Operating Activity,2023-03-31,annual,115032.0,INR_crore
+Cash from Operating Activity,2024-03-31,annual,158788.0,INR_crore
+Cash from Operating Activity,2025-03-31,annual,178703.0,INR_crore
+Cash from Operating Activity,2026-03-31,annual,192113.0,INR_crore
+Cash from Investing Activity,2015-03-31,annual,-64706.0,INR_crore
+Cash from Investing Activity,2016-03-31,annual,-36186.0,INR_crore
+Cash from Investing Activity,2017-03-31,annual,-66201.0,INR_crore
+Cash from Investing Activity,2018-03-31,annual,-68192.0,INR_crore
+Cash from Investing Activity,2019-03-31,annual,-94507.0,INR_crore
+Cash from Investing Activity,2020-03-31,annual,-72497.0,INR_crore
+Cash from Investing Activity,2021-03-31,annual,-142385.0,INR_crore
+Cash from Investing Activity,2022-03-31,annual,-109162.0,INR_crore
+Cash from Investing Activity,2023-03-31,annual,-93001.0,INR_crore
+Cash from Investing Activity,2024-03-31,annual,-113581.0,INR_crore
+Cash from Investing Activity,2025-03-31,annual,-137535.0,INR_crore
+Cash from Investing Activity,2026-03-31,annual,-101089.0,INR_crore
+Cash from Financing Activity,2015-03-31,annual,8444.0,INR_crore
+Cash from Financing Activity,2016-03-31,annual,-3210.0,INR_crore
+Cash from Financing Activity,2017-03-31,annual,8617.0,INR_crore
+Cash from Financing Activity,2018-03-31,annual,-2001.0,INR_crore
+Cash from Financing Activity,2019-03-31,annual,55906.0,INR_crore
+Cash from Financing Activity,2020-03-31,annual,-2541.0,INR_crore
+Cash from Financing Activity,2021-03-31,annual,101904.0,INR_crore
+Cash from Financing Activity,2022-03-31,annual,17289.0,INR_crore
+Cash from Financing Activity,2023-03-31,annual,10455.0,INR_crore
+Cash from Financing Activity,2024-03-31,annual,-16646.0,INR_crore
+Cash from Financing Activity,2025-03-31,annual,-31891.0,INR_crore
+Cash from Financing Activity,2026-03-31,annual,-51549.0,INR_crore
+Net Cash Flow,2015-03-31,annual,-21888.0,INR_crore
+Net Cash Flow,2016-03-31,annual,-1262.0,INR_crore
+Net Cash Flow,2017-03-31,annual,-8034.0,INR_crore
+Net Cash Flow,2018-03-31,annual,1266.0,INR_crore
+Net Cash Flow,2019-03-31,annual,3745.0,INR_crore
+Net Cash Flow,2020-03-31,annual,19839.0,INR_crore
+Net Cash Flow,2021-03-31,annual,-13523.0,INR_crore
+Net Cash Flow,2022-03-31,annual,18781.0,INR_crore
+Net Cash Flow,2023-03-31,annual,32486.0,INR_crore
+Net Cash Flow,2024-03-31,annual,28561.0,INR_crore
+Net Cash Flow,2025-03-31,annual,9277.0,INR_crore
+Net Cash Flow,2026-03-31,annual,39475.0,INR_crore
+Free Cash Flow,2015-03-31,annual,-28588.0,INR_crore
+Free Cash Flow,2016-03-31,annual,-8420.0,INR_crore
+Free Cash Flow,2017-03-31,annual,-27077.0,INR_crore
+Free Cash Flow,2018-03-31,annual,-1495.0,INR_crore
+Free Cash Flow,2019-03-31,annual,-50431.0,INR_crore
+Free Cash Flow,2020-03-31,annual,19324.0,INR_crore
+Free Cash Flow,2021-03-31,annual,-76560.0,INR_crore
+Free Cash Flow,2022-03-31,annual,13646.0,INR_crore
+Free Cash Flow,2023-03-31,annual,-16770.0,INR_crore
+Free Cash Flow,2024-03-31,annual,21212.0,INR_crore
+Free Cash Flow,2025-03-31,annual,41079.0,INR_crore
+Free Cash Flow,2026-03-31,annual,70023.0,INR_crore
+CFO/OP,2015-03-31,annual,109.0,percent
+CFO/OP,2016-03-31,annual,112.0,percent
+CFO/OP,2017-03-31,annual,129.0,percent
+CFO/OP,2018-03-31,annual,126.0,percent
+CFO/OP,2019-03-31,annual,65.0,percent
+CFO/OP,2020-03-31,annual,116.0,percent
+CFO/OP,2021-03-31,annual,37.0,percent
+CFO/OP,2022-03-31,annual,105.0,percent
+CFO/OP,2023-03-31,annual,85.0,percent
+CFO/OP,2024-03-31,annual,105.0,percent
+CFO/OP,2025-03-31,annual,115.0,percent
+CFO/OP,2026-03-31,annual,113.0,percent

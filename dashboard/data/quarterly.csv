@@ -1,0 +1,144 @@
+line_item,period,period_type,value,unit
+Sales,2023-06-30,quarterly,207559.0,INR_crore
+Sales,2023-09-30,quarterly,231886.0,INR_crore
+Sales,2023-12-31,quarterly,225086.0,INR_crore
+Sales,2024-03-31,quarterly,236533.0,INR_crore
+Sales,2024-06-30,quarterly,231784.0,INR_crore
+Sales,2024-09-30,quarterly,231535.0,INR_crore
+Sales,2024-12-31,quarterly,239986.0,INR_crore
+Sales,2025-03-31,quarterly,261388.0,INR_crore
+Sales,2025-06-30,quarterly,243632.0,INR_crore
+Sales,2025-09-30,quarterly,254623.0,INR_crore
+Sales,2025-12-31,quarterly,264905.0,INR_crore
+Sales,2026-03-31,quarterly,294059.0,INR_crore
+Sales,2026-06-30,quarterly,309468.0,INR_crore
+Expenses,2023-06-30,quarterly,169466.0,INR_crore
+Expenses,2023-09-30,quarterly,190918.0,INR_crore
+Expenses,2023-12-31,quarterly,184430.0,INR_crore
+Expenses,2024-03-31,quarterly,194017.0,INR_crore
+Expenses,2024-06-30,quarterly,193019.0,INR_crore
+Expenses,2024-09-30,quarterly,192477.0,INR_crore
+Expenses,2024-12-31,quarterly,196197.0,INR_crore
+Expenses,2025-03-31,quarterly,217556.0,INR_crore
+Expenses,2025-06-30,quarterly,200727.0,INR_crore
+Expenses,2025-09-30,quarterly,208738.0,INR_crore
+Expenses,2025-12-31,quarterly,218887.0,INR_crore
+Expenses,2026-03-31,quarterly,249918.0,INR_crore
+Expenses,2026-06-30,quarterly,261951.0,INR_crore
+Operating Profit,2023-06-30,quarterly,38093.0,INR_crore
+Operating Profit,2023-09-30,quarterly,40968.0,INR_crore
+Operating Profit,2023-12-31,quarterly,40656.0,INR_crore
+Operating Profit,2024-03-31,quarterly,42516.0,INR_crore
+Operating Profit,2024-06-30,quarterly,38765.0,INR_crore
+Operating Profit,2024-09-30,quarterly,39058.0,INR_crore
+Operating Profit,2024-12-31,quarterly,43789.0,INR_crore
+Operating Profit,2025-03-31,quarterly,43832.0,INR_crore
+Operating Profit,2025-06-30,quarterly,42905.0,INR_crore
+Operating Profit,2025-09-30,quarterly,45885.0,INR_crore
+Operating Profit,2025-12-31,quarterly,46018.0,INR_crore
+Operating Profit,2026-03-31,quarterly,44141.0,INR_crore
+Operating Profit,2026-06-30,quarterly,47517.0,INR_crore
+OPM %,2023-06-30,quarterly,18.0,percent
+OPM %,2023-09-30,quarterly,18.0,percent
+OPM %,2023-12-31,quarterly,18.0,percent
+OPM %,2024-03-31,quarterly,18.0,percent
+OPM %,2024-06-30,quarterly,17.0,percent
+OPM %,2024-09-30,quarterly,17.0,percent
+OPM %,2024-12-31,quarterly,18.0,percent
+OPM %,2025-03-31,quarterly,17.0,percent
+OPM %,2025-06-30,quarterly,18.0,percent
+OPM %,2025-09-30,quarterly,18.0,percent
+OPM %,2025-12-31,quarterly,17.0,percent
+OPM %,2026-03-31,quarterly,15.0,percent
+OPM %,2026-06-30,quarterly,15.0,percent
+Other Income,2023-06-30,quarterly,3813.0,INR_crore
+Other Income,2023-09-30,quarterly,3841.0,INR_crore
+Other Income,2023-12-31,quarterly,3869.0,INR_crore
+Other Income,2024-03-31,quarterly,4534.0,INR_crore
+Other Income,2024-06-30,quarterly,3983.0,INR_crore
+Other Income,2024-09-30,quarterly,4876.0,INR_crore
+Other Income,2024-12-31,quarterly,4214.0,INR_crore
+Other Income,2025-03-31,quarterly,4905.0,INR_crore
+Other Income,2025-06-30,quarterly,15119.0,INR_crore
+Other Income,2025-09-30,quarterly,4482.0,INR_crore
+Other Income,2025-12-31,quarterly,4914.0,INR_crore
+Other Income,2026-03-31,quarterly,4447.0,INR_crore
+Other Income,2026-06-30,quarterly,6550.0,INR_crore
+Interest,2023-06-30,quarterly,5837.0,INR_crore
+Interest,2023-09-30,quarterly,5731.0,INR_crore
+Interest,2023-12-31,quarterly,5789.0,INR_crore
+Interest,2024-03-31,quarterly,5761.0,INR_crore
+Interest,2024-06-30,quarterly,5918.0,INR_crore
+Interest,2024-09-30,quarterly,6017.0,INR_crore
+Interest,2024-12-31,quarterly,6179.0,INR_crore
+Interest,2025-03-31,quarterly,6155.0,INR_crore
+Interest,2025-06-30,quarterly,7036.0,INR_crore
+Interest,2025-09-30,quarterly,6827.0,INR_crore
+Interest,2025-12-31,quarterly,6613.0,INR_crore
+Interest,2026-03-31,quarterly,6585.0,INR_crore
+Interest,2026-06-30,quarterly,8337.0,INR_crore
+Depreciation,2023-06-30,quarterly,11775.0,INR_crore
+Depreciation,2023-09-30,quarterly,12585.0,INR_crore
+Depreciation,2023-12-31,quarterly,12903.0,INR_crore
+Depreciation,2024-03-31,quarterly,13569.0,INR_crore
+Depreciation,2024-06-30,quarterly,13596.0,INR_crore
+Depreciation,2024-09-30,quarterly,12880.0,INR_crore
+Depreciation,2024-12-31,quarterly,13181.0,INR_crore
+Depreciation,2025-03-31,quarterly,13479.0,INR_crore
+Depreciation,2025-06-30,quarterly,13842.0,INR_crore
+Depreciation,2025-09-30,quarterly,14416.0,INR_crore
+Depreciation,2025-12-31,quarterly,14622.0,INR_crore
+Depreciation,2026-03-31,quarterly,14808.0,INR_crore
+Depreciation,2026-06-30,quarterly,15100.0,INR_crore
+Profit before tax,2023-06-30,quarterly,24294.0,INR_crore
+Profit before tax,2023-09-30,quarterly,26493.0,INR_crore
+Profit before tax,2023-12-31,quarterly,25833.0,INR_crore
+Profit before tax,2024-03-31,quarterly,27720.0,INR_crore
+Profit before tax,2024-06-30,quarterly,23234.0,INR_crore
+Profit before tax,2024-09-30,quarterly,25037.0,INR_crore
+Profit before tax,2024-12-31,quarterly,28643.0,INR_crore
+Profit before tax,2025-03-31,quarterly,29103.0,INR_crore
+Profit before tax,2025-06-30,quarterly,37146.0,INR_crore
+Profit before tax,2025-09-30,quarterly,29124.0,INR_crore
+Profit before tax,2025-12-31,quarterly,29697.0,INR_crore
+Profit before tax,2026-03-31,quarterly,27195.0,INR_crore
+Profit before tax,2026-06-30,quarterly,30630.0,INR_crore
+Tax %,2023-06-30,quarterly,25.0,percent
+Tax %,2023-09-30,quarterly,25.0,percent
+Tax %,2023-12-31,quarterly,25.0,percent
+Tax %,2024-03-31,quarterly,24.0,percent
+Tax %,2024-06-30,quarterly,25.0,percent
+Tax %,2024-09-30,quarterly,24.0,percent
+Tax %,2024-12-31,quarterly,24.0,percent
+Tax %,2025-03-31,quarterly,23.0,percent
+Tax %,2025-06-30,quarterly,17.0,percent
+Tax %,2025-09-30,quarterly,24.0,percent
+Tax %,2025-12-31,quarterly,25.0,percent
+Tax %,2026-03-31,quarterly,24.0,percent
+Tax %,2026-06-30,quarterly,25.0,percent
+Net Profit,2023-06-30,quarterly,18258.0,INR_crore
+Net Profit,2023-09-30,quarterly,19878.0,INR_crore
+Net Profit,2023-12-31,quarterly,19641.0,INR_crore
+Net Profit,2024-03-31,quarterly,21243.0,INR_crore
+Net Profit,2024-06-30,quarterly,17445.0,INR_crore
+Net Profit,2024-09-30,quarterly,19323.0,INR_crore
+Net Profit,2024-12-31,quarterly,21930.0,INR_crore
+Net Profit,2025-03-31,quarterly,22611.0,INR_crore
+Net Profit,2025-06-30,quarterly,30783.0,INR_crore
+Net Profit,2025-09-30,quarterly,22092.0,INR_crore
+Net Profit,2025-12-31,quarterly,22290.0,INR_crore
+Net Profit,2026-03-31,quarterly,20589.0,INR_crore
+Net Profit,2026-06-30,quarterly,23196.0,INR_crore
+EPS in Rs,2023-06-30,quarterly,11.83,INR_per_share
+EPS in Rs,2023-09-30,quarterly,12.85,INR_per_share
+EPS in Rs,2023-12-31,quarterly,12.76,INR_per_share
+EPS in Rs,2024-03-31,quarterly,14.01,INR_per_share
+EPS in Rs,2024-06-30,quarterly,11.19,INR_per_share
+EPS in Rs,2024-09-30,quarterly,12.24,INR_per_share
+EPS in Rs,2024-12-31,quarterly,13.7,INR_per_share
+EPS in Rs,2025-03-31,quarterly,14.34,INR_per_share
+EPS in Rs,2025-06-30,quarterly,19.95,INR_per_share
+EPS in Rs,2025-09-30,quarterly,13.42,INR_per_share
+EPS in Rs,2025-12-31,quarterly,13.78,INR_per_share
+EPS in Rs,2026-03-31,quarterly,12.54,INR_per_share
+EPS in Rs,2026-06-30,quarterly,15.48,INR_per_share

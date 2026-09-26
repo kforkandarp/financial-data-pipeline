@@ -1,0 +1,73 @@
+line_item,period,period_type,value,unit
+Debtor Days,2015-03-31,annual,5.0,days
+Debtor Days,2016-03-31,annual,6.0,days
+Debtor Days,2017-03-31,annual,10.0,days
+Debtor Days,2018-03-31,annual,16.0,days
+Debtor Days,2019-03-31,annual,19.0,days
+Debtor Days,2020-03-31,annual,12.0,days
+Debtor Days,2021-03-31,annual,15.0,days
+Debtor Days,2022-03-31,annual,12.0,days
+Debtor Days,2023-03-31,annual,12.0,days
+Debtor Days,2024-03-31,annual,13.0,days
+Debtor Days,2025-03-31,annual,16.0,days
+Debtor Days,2026-03-31,annual,20.0,days
+Inventory Days,2015-03-31,annual,66.0,days
+Inventory Days,2016-03-31,annual,90.0,days
+Inventory Days,2017-03-31,annual,84.0,days
+Inventory Days,2018-03-31,annual,83.0,days
+Inventory Days,2019-03-31,annual,63.0,days
+Inventory Days,2020-03-31,annual,67.0,days
+Inventory Days,2021-03-31,annual,102.0,days
+Inventory Days,2022-03-31,annual,83.0,days
+Inventory Days,2023-03-31,annual,87.0,days
+Inventory Days,2024-03-31,annual,95.0,days
+Inventory Days,2025-03-31,annual,85.0,days
+Inventory Days,2026-03-31,annual,88.0,days
+Days Payable,2015-03-31,annual,74.0,days
+Days Payable,2016-03-31,annual,117.0,days
+Days Payable,2017-03-31,annual,132.0,days
+Days Payable,2018-03-31,annual,146.0,days
+Days Payable,2019-03-31,annual,100.0,days
+Days Payable,2020-03-31,annual,87.0,days
+Days Payable,2021-03-31,annual,136.0,days
+Days Payable,2022-03-31,annual,123.0,days
+Days Payable,2023-03-31,annual,91.0,days
+Days Payable,2024-03-31,annual,111.0,days
+Days Payable,2025-03-31,annual,108.0,days
+Days Payable,2026-03-31,annual,84.0,days
+Cash Conversion Cycle,2015-03-31,annual,-2.0,days
+Cash Conversion Cycle,2016-03-31,annual,-21.0,days
+Cash Conversion Cycle,2017-03-31,annual,-38.0,days
+Cash Conversion Cycle,2018-03-31,annual,-46.0,days
+Cash Conversion Cycle,2019-03-31,annual,-18.0,days
+Cash Conversion Cycle,2020-03-31,annual,-9.0,days
+Cash Conversion Cycle,2021-03-31,annual,-19.0,days
+Cash Conversion Cycle,2022-03-31,annual,-27.0,days
+Cash Conversion Cycle,2023-03-31,annual,7.0,days
+Cash Conversion Cycle,2024-03-31,annual,-3.0,days
+Cash Conversion Cycle,2025-03-31,annual,-8.0,days
+Cash Conversion Cycle,2026-03-31,annual,25.0,days
+Working Capital Days,2015-03-31,annual,-64.0,days
+Working Capital Days,2016-03-31,annual,-148.0,days
+Working Capital Days,2017-03-31,annual,-179.0,days
+Working Capital Days,2018-03-31,annual,-179.0,days
+Working Capital Days,2019-03-31,annual,-108.0,days
+Working Capital Days,2020-03-31,annual,-158.0,days
+Working Capital Days,2021-03-31,annual,-58.0,days
+Working Capital Days,2022-03-31,annual,-56.0,days
+Working Capital Days,2023-03-31,annual,-66.0,days
+Working Capital Days,2024-03-31,annual,-53.0,days
+Working Capital Days,2025-03-31,annual,-68.0,days
+Working Capital Days,2026-03-31,annual,-66.0,days
+ROCE %,2015-03-31,annual,9.0,percent
+ROCE %,2016-03-31,annual,10.0,percent
+ROCE %,2017-03-31,annual,10.0,percent
+ROCE %,2018-03-31,annual,11.0,percent
+ROCE %,2019-03-31,annual,12.0,percent
+ROCE %,2020-03-31,annual,11.0,percent
+ROCE %,2021-03-31,annual,8.0,percent
+ROCE %,2022-03-31,annual,8.0,percent
+ROCE %,2023-03-31,annual,9.0,percent
+ROCE %,2024-03-31,annual,10.0,percent
+ROCE %,2025-03-31,annual,10.0,percent
+ROCE %,2026-03-31,annual,10.0,percent

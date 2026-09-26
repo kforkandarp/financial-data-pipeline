@@ -1,0 +1,121 @@
+line_item,period,period_type,value,unit
+Equity Capital,2015-03-31,annual,2943.0,INR_crore
+Equity Capital,2016-03-31,annual,2948.0,INR_crore
+Equity Capital,2017-03-31,annual,2959.0,INR_crore
+Equity Capital,2018-03-31,annual,5922.0,INR_crore
+Equity Capital,2019-03-31,annual,5926.0,INR_crore
+Equity Capital,2020-03-31,annual,6339.0,INR_crore
+Equity Capital,2021-03-31,annual,6445.0,INR_crore
+Equity Capital,2022-03-31,annual,6765.0,INR_crore
+Equity Capital,2023-03-31,annual,6766.0,INR_crore
+Equity Capital,2024-03-31,annual,6766.0,INR_crore
+Equity Capital,2025-03-31,annual,13532.0,INR_crore
+Equity Capital,2026-03-31,annual,13532.0,INR_crore
+Reserves,2015-03-31,annual,215556.0,INR_crore
+Reserves,2016-03-31,annual,228608.0,INR_crore
+Reserves,2017-03-31,annual,260750.0,INR_crore
+Reserves,2018-03-31,annual,287584.0,INR_crore
+Reserves,2019-03-31,annual,381186.0,INR_crore
+Reserves,2020-03-31,annual,442827.0,INR_crore
+Reserves,2021-03-31,annual,693727.0,INR_crore
+Reserves,2022-03-31,annual,772720.0,INR_crore
+Reserves,2023-03-31,annual,709106.0,INR_crore
+Reserves,2024-03-31,annual,786715.0,INR_crore
+Reserves,2025-03-31,annual,829668.0,INR_crore
+Reserves,2026-03-31,annual,890498.0,INR_crore
+Borrowings,2015-03-31,annual,168251.0,INR_crore
+Borrowings,2016-03-31,annual,194714.0,INR_crore
+Borrowings,2017-03-31,annual,217475.0,INR_crore
+Borrowings,2018-03-31,annual,239843.0,INR_crore
+Borrowings,2019-03-31,annual,307714.0,INR_crore
+Borrowings,2020-03-31,annual,355133.0,INR_crore
+Borrowings,2021-03-31,annual,278962.0,INR_crore
+Borrowings,2022-03-31,annual,319158.0,INR_crore
+Borrowings,2023-03-31,annual,451664.0,INR_crore
+Borrowings,2024-03-31,annual,350719.0,INR_crore
+Borrowings,2025-03-31,annual,374313.0,INR_crore
+Borrowings,2026-03-31,annual,402962.0,INR_crore
+Other Liabilities,2015-03-31,annual,117736.0,INR_crore
+Other Liabilities,2016-03-31,annual,172727.0,INR_crore
+Other Liabilities,2017-03-31,annual,225618.0,INR_crore
+Other Liabilities,2018-03-31,annual,277924.0,INR_crore
+Other Liabilities,2019-03-31,annual,302804.0,INR_crore
+Other Liabilities,2020-03-31,annual,358716.0,INR_crore
+Other Liabilities,2021-03-31,annual,340931.0,INR_crore
+Other Liabilities,2022-03-31,annual,399979.0,INR_crore
+Other Liabilities,2023-03-31,annual,438346.0,INR_crore
+Other Liabilities,2024-03-31,annual,610848.0,INR_crore
+Other Liabilities,2025-03-31,annual,732200.0,INR_crore
+Other Liabilities,2026-03-31,annual,870554.0,INR_crore
+Total Liabilities,2015-03-31,annual,504486.0,INR_crore
+Total Liabilities,2016-03-31,annual,598997.0,INR_crore
+Total Liabilities,2017-03-31,annual,706802.0,INR_crore
+Total Liabilities,2018-03-31,annual,811273.0,INR_crore
+Total Liabilities,2019-03-31,annual,997630.0,INR_crore
+Total Liabilities,2020-03-31,annual,1163015.0,INR_crore
+Total Liabilities,2021-03-31,annual,1320065.0,INR_crore
+Total Liabilities,2022-03-31,annual,1498622.0,INR_crore
+Total Liabilities,2023-03-31,annual,1605882.0,INR_crore
+Total Liabilities,2024-03-31,annual,1755048.0,INR_crore
+Total Liabilities,2025-03-31,annual,1949713.0,INR_crore
+Total Liabilities,2026-03-31,annual,2177546.0,INR_crore
+Fixed Assets,2015-03-31,annual,156458.0,INR_crore
+Fixed Assets,2016-03-31,annual,184910.0,INR_crore
+Fixed Assets,2017-03-31,annual,198526.0,INR_crore
+Fixed Assets,2018-03-31,annual,403885.0,INR_crore
+Fixed Assets,2019-03-31,annual,398374.0,INR_crore
+Fixed Assets,2020-03-31,annual,532658.0,INR_crore
+Fixed Assets,2021-03-31,annual,541258.0,INR_crore
+Fixed Assets,2022-03-31,annual,627798.0,INR_crore
+Fixed Assets,2023-03-31,annual,724805.0,INR_crore
+Fixed Assets,2024-03-31,annual,779985.0,INR_crore
+Fixed Assets,2025-03-31,annual,999393.0,INR_crore
+Fixed Assets,2026-03-31,annual,1124795.0,INR_crore
+CWIP,2015-03-31,annual,166462.0,INR_crore
+CWIP,2016-03-31,annual,228697.0,INR_crore
+CWIP,2017-03-31,annual,324837.0,INR_crore
+CWIP,2018-03-31,annual,187022.0,INR_crore
+CWIP,2019-03-31,annual,179463.0,INR_crore
+CWIP,2020-03-31,annual,109106.0,INR_crore
+CWIP,2021-03-31,annual,125953.0,INR_crore
+CWIP,2022-03-31,annual,172506.0,INR_crore
+CWIP,2023-03-31,annual,293752.0,INR_crore
+CWIP,2024-03-31,annual,338855.0,INR_crore
+CWIP,2025-03-31,annual,262358.0,INR_crore
+CWIP,2026-03-31,annual,237686.0,INR_crore
+Investments,2015-03-31,annual,76451.0,INR_crore
+Investments,2016-03-31,annual,84015.0,INR_crore
+Investments,2017-03-31,annual,82899.0,INR_crore
+Investments,2018-03-31,annual,82862.0,INR_crore
+Investments,2019-03-31,annual,235635.0,INR_crore
+Investments,2020-03-31,annual,276767.0,INR_crore
+Investments,2021-03-31,annual,364828.0,INR_crore
+Investments,2022-03-31,annual,394264.0,INR_crore
+Investments,2023-03-31,annual,235560.0,INR_crore
+Investments,2024-03-31,annual,225672.0,INR_crore
+Investments,2025-03-31,annual,242381.0,INR_crore
+Investments,2026-03-31,annual,248332.0,INR_crore
+Other Assets,2015-03-31,annual,105115.0,INR_crore
+Other Assets,2016-03-31,annual,101375.0,INR_crore
+Other Assets,2017-03-31,annual,100540.0,INR_crore
+Other Assets,2018-03-31,annual,137504.0,INR_crore
+Other Assets,2019-03-31,annual,184158.0,INR_crore
+Other Assets,2020-03-31,annual,244484.0,INR_crore
+Other Assets,2021-03-31,annual,288026.0,INR_crore
+Other Assets,2022-03-31,annual,304054.0,INR_crore
+Other Assets,2023-03-31,annual,351765.0,INR_crore
+Other Assets,2024-03-31,annual,410536.0,INR_crore
+Other Assets,2025-03-31,annual,445581.0,INR_crore
+Other Assets,2026-03-31,annual,566733.0,INR_crore
+Total Assets,2015-03-31,annual,504486.0,INR_crore
+Total Assets,2016-03-31,annual,598997.0,INR_crore
+Total Assets,2017-03-31,annual,706802.0,INR_crore
+Total Assets,2018-03-31,annual,811273.0,INR_crore
+Total Assets,2019-03-31,annual,997630.0,INR_crore
+Total Assets,2020-03-31,annual,1163015.0,INR_crore
+Total Assets,2021-03-31,annual,1320065.0,INR_crore
+Total Assets,2022-03-31,annual,1498622.0,INR_crore
+Total Assets,2023-03-31,annual,1605882.0,INR_crore
+Total Assets,2024-03-31,annual,1755048.0,INR_crore
+Total Assets,2025-03-31,annual,1949713.0,INR_crore
+Total Assets,2026-03-31,annual,2177546.0,INR_crore

@@ -1,0 +1,9 @@
+metric,screener_value,official_value,diff,diff_pct,explanation
+Revenue,309468.0,340257.0,-30789.0,-9.05,label difference: Screener 'Sales' vs RIL 'Gross Revenue'
+EBITDA,47517.0,54067.0,-6550.0,-12.11,label difference: Screener 'Operating Profit' vs RIL 'EBITDA'
+Depreciation,15100.0,15100.0,0.0,0.0,direct match: Depreciation
+Finance Costs,8337.0,8337.0,0.0,0.0,label difference: Screener 'Interest' vs RIL 'Finance Costs'
+Profit Before Tax,30630.0,30630.0,0.0,0.0,direct match: Profit Before Tax
+Tax Expenses (derived),7657.5,7629.0,28.5,0.37,derived figure: Screener provides Tax % rate; computed as (Profit before tax * Tax % / 100)
+Net Profit vs Profit After Tax,23196.0,23001.0,195.0,0.85,comparison against RIL standalone Profit After Tax (row 8)
+Net Profit vs Profit After Tax + Associates,23196.0,23196.0,0.0,0.0,comparison against RIL PAT including Share of Profit of Associates & JVs (row 10)

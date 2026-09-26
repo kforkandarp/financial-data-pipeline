@@ -1,0 +1,99 @@
+/* Minimal, readable styling — data correctness matters more than visual polish here. */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, "Segoe UI", Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.4;
+  color: #1a1a1a;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 24px 32px 48px;
+}
+
+h1 {
+  font-size: 20px;
+  margin: 0 0 20px;
+}
+
+/* Tab bar */
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  border-bottom: 2px solid #ddd;
+  margin-bottom: 20px;
+  padding-bottom: 0;
+}
+
+.tab-button {
+  font-family: inherit;
+  font-size: 14px;
+  padding: 8px 14px;
+  border: 1px solid #ccc;
+  border-bottom: none;
+  background-color: #f2f2f2;
+  color: #333;
+  cursor: pointer;
+  border-radius: 4px 4px 0 0;
+}
+
+.tab-button:hover {
+  background-color: #e6e6e6;
+}
+
+.tab-button.active {
+  background-color: #ffffff;
+  border-color: #999;
+  color: #000;
+  font-weight: 600;
+  position: relative;
+  top: 2px;
+}
+
+/* Content / table area */
+
+.content {
+  overflow-x: auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  min-width: 600px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+thead th {
+  background-color: #f2f2f2;
+  font-weight: 600;
+}
+
+tbody th {
+  text-align: left;
+  font-weight: 400;
+  background-color: #fafafa;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #fbfbfb;
+}
+
+.error-message {
+  color: #a30000;
+  background-color: #fdecec;
+  border: 1px solid #f3b3b3;
+  padding: 12px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+}
