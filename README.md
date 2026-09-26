@@ -7,8 +7,8 @@ static dashboard.
 ## Setup
 
 ```bash
-git clone <this-repo>
-cd <this-repo>
+git clone https://github.com/kforkandarp/financial-data-pipeline.git
+cd financial-data-pipeline
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate
 pip install -r requirements.txt
